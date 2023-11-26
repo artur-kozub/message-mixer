@@ -18,4 +18,4 @@ Here is your encrypted message:
 > tf uhtl pz Hyaby
 ///////////////////////////////////////////////////////////////////////////////////
 
-So, gu nuts with this one.
+So, go nuts with this one.
