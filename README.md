@@ -10,6 +10,7 @@ where "caesar" cipher will shift characetrs of the input by alphabetic amount, s
   
 ///////////////////////////////////////////////////////////////////////////////////
 - Example:
+
 $ node message-mixer.js caesar 7
 Enter the message you would like to encrypt...
 > my name is Artur
