@@ -12,7 +12,7 @@ where "caesar" cipher will shift characetrs of the input by alphabetic amount, s
 ///////////////////////////////////////////////////////////////////////////////////
 - Example:
 
-$ node message-mixer.js caesar 7
+$ npm run caesar 7
 
 Enter the message you would like to encrypt...
 
@@ -23,5 +23,13 @@ Here is your encrypted message:
 *>* tf uhtl pz Hyaby
 
 ///////////////////////////////////////////////////////////////////////////////////
+
+All the commands:
+
+    "caesar": "node message-mixer.js caesar",
+    "symbol": "node message-mixer.js symbol",
+    "reverse": "node message-mixer.js reverse",
+    "encode": "node super-encoder.js encode",
+    "decode": "node super-encoder.js decode",
 
 So, go nuts with this one.

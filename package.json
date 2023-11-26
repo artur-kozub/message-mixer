@@ -1,0 +1,24 @@
+{
+  "name": "message-mixer",
+  "version": "1.0.0",
+  "description": "The ecnryption tool",
+  "main": "message-mixer.js",
+  "scripts": {
+    "caesar": "node message-mixer.js caesar",
+    "symbol": "node message-mixer.js symbol",
+    "reverse": "node message-mixer.js reverse",
+    "encode": "node super-encoder.js encode",
+    "decode": "node super-encoder.js decode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caymannamyac/message-mixer.git"
+  },
+  "author": "Artur Kozub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caymannamyac/message-mixer/issues"
+  },
+  "homepage": "https://github.com/caymannamyac/message-mixer#readme"
+}
