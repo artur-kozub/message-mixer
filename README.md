@@ -11,26 +11,27 @@ Short **manual** for this one:
 
 - node super-encoder.js encode/decode will encode or decode your string depends on whether you will choose.
 
-///////////////////////////////////////////////////////////////////////////////////
-Example:
+*Example:*
 
+```
 $ npm run caesar 7
 
 Enter the message you would like to encrypt...
 *>* my name is Artur
 
+
 Here is your encrypted message:
 *>* tf uhtl pz Hyaby
+```
 
-///////////////////////////////////////////////////////////////////////////////////
-
-#### All the commands:
-
+### All the commands:
+```
     "caesar": "node message-mixer.js caesar",
     "symbol": "node message-mixer.js symbol",
     "reverse": "node message-mixer.js reverse",
     "encode": "node super-encoder.js encode",
     "decode": "node super-encoder.js decode",
+```
 
 #### Technologies:
    JavaScript, Node.js
